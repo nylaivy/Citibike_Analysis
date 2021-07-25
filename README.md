@@ -2,7 +2,9 @@
 
 ## Overview of the analysis
 
-Tableau was used for this analysis to present a business proposal for a bike-sharing company. Worksheets, dashboards and stories were made to visualize key data from a New York Citi bike dataset.
+Tableau was used for this analysis to present a business proposal for a bike-sharing company. Worksheets, dashboards and stories were made to visualize key data from a New York Citi bike dataset. A link to the Tableau dashboard for this analysis with all my visualizations is below.
+
+[link to dashboard](https://public.tableau.com/app/profile/nyla.thompson/viz/Challenge14_16267522181060/CitiBikeinNYC?publish=yes "link to dashboard")
 
 
 ## Results
